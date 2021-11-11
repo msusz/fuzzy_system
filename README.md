@@ -1,2 +1,2 @@
 # fuzzy_system
-Implementation of a fuzzy system in Matlab
+Implementation of a fuzzy system in Python
